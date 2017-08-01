@@ -1,6 +1,6 @@
 {
   "name": "gsap-typings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> `npm install --save @types/gsap`",
   "main": "index.js",
   "scripts": {
