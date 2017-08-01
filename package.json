@@ -1,0 +1,19 @@
+{
+  "name": "gsap-typings",
+  "version": "1.0.0",
+  "description": "> `npm install --save @types/gsap`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asosnovsky/gsap-typings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asosnovsky/gsap-typings/issues"
+  },
+  "homepage": "https://github.com/asosnovsky/gsap-typings#readme"
+}
