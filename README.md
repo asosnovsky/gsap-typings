@@ -3,7 +3,7 @@ This is a fork of the https://www.github.com/DefinitelyTyped/DefinitelyTyped/tre
 With support for draggable (since that one did not have it).
 
 # Installation
-> `npm install --save @types/gsap`
+> `npm i gsap-typings --save-dev`
 
 # Summary
 This package contains type definitions for GSAP (http://greensock.com/).
